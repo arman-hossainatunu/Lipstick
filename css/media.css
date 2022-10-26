@@ -1,0 +1,388 @@
+
+@media(min-width:992px) and (max-width:1199px){
+    .baner-text {
+        margin-top: 130px !important;
+    }
+
+.lg-mt{
+    margin-top: 0 !important;
+}
+
+
+
+.top-right {
+	margin-left: 20px ;
+    margin-top: 0 !important;
+}
+.btm-left {
+	margin-right: 20px;
+    margin-top: 0 !important;
+}
+
+}
+
+
+
+
+
+@media(min-width:768px) and (max-width:991px){
+    .navbar-nav {
+        text-align: center !important;
+    }
+/* ======nabar part end======= */
+
+
+
+    .baner-text {
+        margin-top: 100px !important;
+
+    }
+
+    .baner-text h1 {
+        font-size: 60px !important;
+        margin-bottom: 30px !important;
+    }
+
+    .baner-text h4 {
+        font-size: 40px !important;
+        margin-bottom:  20px !important;
+    }
+
+    .baner-text p {
+        margin-left:  240px !important;
+        font-size: 16px !important;
+        line-height: 26px !important;
+        margin-bottom: 11px !important;
+    }
+
+
+    /* =======best part start=========== */
+    .best-top .top-left img {
+        width: 100% !important;
+
+    }
+
+    .best-top {
+        position: relative;
+    }
+
+    .top-right {
+        position: inherit;
+       width: 100% !important;
+        margin-top: 0 !important;
+        margin-left: 20px;
+
+
+    }
+    .top-right h2 {
+        
+        font-size: 17px !important;
+        line-height: 26px !important;
+       
+    }
+    .top-right p {
+        margin-bottom: 10px !important;
+        width: 252px;
+    }
+
+    .best-btm {
+        position: relative;
+    }
+
+    .btm-right img {
+        width: 100% !important;
+    }
+
+    .btm-left {
+        margin-top: 0px !important;
+
+    }
+
+    .btm-left {
+        position: inherit;
+        margin-right: 10px;
+
+    }
+
+    .btm-left h2 {
+        margin-left: 0 !important;
+        font-size: 22px !important;
+        line-height: 26px !important;
+    }
+
+    .btm-btm {
+        margin-left: 0 !important;
+    }
+
+    .btm-left p {
+        width: 254px;
+        margin-bottom: 10 !important;
+    }
+
+/* ======best part start================*/ 
+/* ======footer part end================*/
+
+    .PHONE::before {
+ 
+        display: none;
+    }
+    .offset-2 {
+        margin-top: 30px;
+        margin-left: 0 !important;
+    }
+    .PHONE {
+        margin-bottom: 10px !important;
+    }
+    .email {
+        margin-bottom: 10px !important;
+    }
+    /* =======footer======== */
+
+
+
+
+
+
+}
+
+@media(min-width:576px) and (max-width:767px){
+    .navbar-nav {
+        text-align: center !important;
+    }
+/* ======nabar part end======= */
+
+
+
+    .baner-text {
+        margin-top: 60px !important;
+
+    }
+
+    .baner-text h1 {
+        font-size: 40px !important;
+        margin-bottom: 14px !important;
+    }
+
+    .baner-text h4 {
+        font-size: 30px !important;
+        margin-bottom:  20px !important;
+    }
+
+    .baner-text p {
+        margin-left: unset !important;
+        font-size: 16px !important;
+        line-height: 26px !important;
+        margin-bottom: 11px !important;
+    }
+
+
+    /* =======best part start=========== */
+    .best-top .top-left img {
+        width: 100% !important;
+
+    }
+
+    .best-top {
+        position: relative;
+    }
+
+    .top-right {
+        position: inherit;
+       width: 100% !important;
+        margin-top: 0 !important;
+        margin-left: 20px;
+
+
+    }
+    .top-right h2 {
+        
+        font-size: 17px !important;
+        line-height: 26px !important;
+       
+    }
+    .top-right p {
+        margin-bottom: 10px !important;
+        width: 252px;
+    }
+
+    .best-btm {
+        position: relative;
+    }
+
+    .btm-right img {
+        width: 100% !important;
+    }
+
+    .btm-left {
+        margin-top: 0px !important;
+
+    }
+
+    .btm-left {
+        position: inherit;
+        margin-right: 10px;
+
+    }
+
+    .btm-left h2 {
+        margin-left: 0 !important;
+        font-size: 22px !important;
+        line-height: 26px !important;
+    }
+
+    .btm-btm {
+        margin-left: 0 !important;
+    }
+
+    .btm-left p {
+        width: 254px;
+        margin-bottom: 10 !important;
+    }
+
+/* ======GALLERY part start================*/
+
+  
+   
+/* ======GALLERY part end================*/
+
+    .PHONE::before {
+ 
+        display: none;
+    }
+    .offset-2 {
+        margin-top: 30px;
+        margin-left: 0 !important;
+    }
+    .PHONE {
+        margin-bottom: 10px !important;
+    }
+    .email {
+        margin-bottom: 10px !important;
+    }
+    /* =======footer======== */
+
+
+
+}
+
+@media(max-width:575.99px) {
+
+    .navbar-nav {
+        text-align: center !important;
+    }
+/* ======nabar part end======= */
+
+
+
+    .baner-text {
+        margin-top: 2px !important;
+
+    }
+
+    .baner-text h1 {
+        font-size: 20px !important;
+        margin-bottom: -4px !important;
+    }
+
+    .baner-text h4 {
+        font-size: 20px !important;
+        margin-bottom: unset !important;
+    }
+
+    .baner-text p {
+        margin-left: unset !important;
+        font-size: 16px !important;
+        line-height: 19px !important;
+        margin-bottom: 8px !important;
+    }
+
+    .baner-text .ban-btm a {
+        padding: 6px !important;
+
+    }
+
+
+    /* =======best part start=========== */
+    .best-top .top-left img {
+        width: 100% !important;
+
+    }
+
+    .best-top {
+        position: relative;
+    }
+
+    .top-right {
+        position: inherit;
+       width: 100% !important;
+        margin-top: 0 !important;
+        margin-left: 10px;
+
+
+    }
+    .top-right h2 {
+        
+        font-size: 16px !important;
+      
+        line-height: 20px !important;
+       
+    }
+    .top-right p {
+        margin-bottom: 0px !important;
+        width: 192px;
+    }
+
+    .best-btm {
+        position: relative;
+    }
+
+    .btm-right img {
+        width: 100% !important;
+    }
+
+    .btm-left {
+        margin-top: 0px !important;
+
+    }
+
+    .btm-left {
+        position: inherit;
+        margin-right: 10px;
+
+    }
+
+    .btm-left h2 {
+        margin-left: 0 !important;
+        font-size: 22px !important;
+        line-height: 26px !important;
+    }
+
+    .btm-btm {
+        margin-left: 0 !important;
+    }
+
+    .btm-left p {
+        width: 196px;
+        margin-bottom: 0 !important;
+    }
+
+/* ======GALLERY================*/
+
+    .img-top {
+        margin-top: 20px;
+    }
+
+    .offset-2 {
+        margin-top: 30px;
+        margin-left: 0 !important;
+    }
+    .PHONE {
+        margin-bottom: 10px !important;
+    }
+    .email {
+        margin-bottom: 10px !important;
+    }
+    /* =======footer======== */
+
+
+}
