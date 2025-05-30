@@ -28,11 +28,8 @@ This project provides a seamless and visually stunning e-commerce platform focus
 
 ---
 
-## 📸 Screenshots
+## 🔗 Live Demo
 
-> *Add screenshots or a demo GIF here for visual impact.*
-
----
-
-## 📂 Project Structure
+Check out the live site here:  
+👉 [Lipstick Demo](https://your-username.github.io/lipstick/)  
 
