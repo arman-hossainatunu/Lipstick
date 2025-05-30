@@ -1,40 +1,44 @@
-@media(min-width:1400px){
-    .mt{
+@media(min-width:1400px) {
+    .mt {
         margin-top: 0 !important;
     }
 
 }
 
-@media(min-width:1200px) and (max-width:1399px){
-    .mt{
+@media(min-width:1200px) and (max-width:1399px) {
+    .mt {
         margin-top: 0 !important;
     }
 
 }
 
-@media(min-width:992px) and (max-width:1199px){
+@media(min-width:992px) and (max-width:1199px) {
     .baner-text {
         margin-top: 130px !important;
     }
 
-.mt{
-    margin-top: 0 !important;
-}
-.top-right {
-	margin-left: 20px ;
-    margin-top: 0 !important;
-}
-.btm-left {
-	margin-right: 20px;
-    margin-top: 0 !important;
-}
+    .mt {
+        margin-top: 0 !important;
+    }
+
+    .top-right {
+        margin-left: 20px;
+        margin-top: 0 !important;
+    }
+
+    .btm-left {
+        margin-right: 20px;
+        margin-top: 0 !important;
+    }
 
 }
-@media(min-width:768px) and (max-width:991px){
+
+@media(min-width:768px) and (max-width:991px) {
     .navbar-nav {
         text-align: center !important;
     }
-/* ======nabar part end======= */
+
+    /* ======nabar part end======= */
 
 
 
@@ -50,11 +54,11 @@
 
     .baner-text h4 {
         font-size: 40px !important;
-        margin-bottom:  20px !important;
+        margin-bottom: 20px !important;
     }
 
     .baner-text p {
-        margin-left:  240px !important;
+        margin-left: 240px !important;
         font-size: 16px !important;
         line-height: 26px !important;
         margin-bottom: 11px !important;
@@ -73,18 +77,20 @@
 
     .top-right {
         position: inherit;
-       width: 100% !important;
+        width: 100% !important;
         margin-top: 0 !important;
         margin-left: 20px;
 
 
     }
+
     .top-right h2 {
-        
+
         font-size: 17px !important;
         line-height: 26px !important;
-       
+
     }
+
     .top-right p {
         margin-bottom: 10px !important;
         width: 252px;
@@ -124,23 +130,27 @@
         margin-bottom: 10 !important;
     }
 
-/* ======best part start================*/ 
-/* ======footer part end================*/
+    /* ======best part start================*/
+    /* ======footer part end================*/
 
     .PHONE::before {
- 
+
         display: none;
     }
+
     .offset-2 {
         margin-top: 30px;
         margin-left: 0 !important;
     }
+
     .PHONE {
         margin-bottom: 10px !important;
     }
+
     .email {
         margin-bottom: 10px !important;
     }
+
     /* =======footer======== */
 
 
@@ -150,11 +160,12 @@
 
 }
 
-@media(min-width:576px) and (max-width:767px){
+@media(min-width:576px) and (max-width:767px) {
     .navbar-nav {
         text-align: center !important;
     }
-/* ======nabar part end======= */
+
+    /* ======nabar part end======= */
 
 
 
@@ -170,7 +181,7 @@
 
     .baner-text h4 {
         font-size: 30px !important;
-        margin-bottom:  20px !important;
+        margin-bottom: 20px !important;
     }
 
     .baner-text p {
@@ -187,31 +198,37 @@
 
     }
 
+
     .best-top {
+        flex-direction: column-reverse;
         position: relative;
+        flex-direction: column;
     }
 
     .top-right {
         position: inherit;
-       width: 100% !important;
+        width: 100% !important;
         margin-top: 0 !important;
         margin-left: 20px;
 
 
     }
+
     .top-right h2 {
-        
+
         font-size: 17px !important;
         line-height: 26px !important;
-       
+
     }
+
     .top-right p {
         margin-bottom: 10px !important;
-        width: 252px;
+        width: 550px;
     }
 
     .best-btm {
         position: relative;
+        flex-direction: column-reverse;
     }
 
     .btm-right img {
@@ -240,30 +257,34 @@
     }
 
     .btm-left p {
-        width: 254px;
+        width: 550px;
         margin-bottom: 10 !important;
     }
 
-/* ======GALLERY part start================*/
+    /* ======GALLERY part start================*/
 
-  
-   
-/* ======GALLERY part end================*/
+
+
+    /* ======GALLERY part end================*/
 
     .PHONE::before {
- 
+
         display: none;
     }
+
     .offset-2 {
         margin-top: 30px;
         margin-left: 0 !important;
     }
+
     .PHONE {
         margin-bottom: 10px !important;
     }
+
     .email {
         margin-bottom: 10px !important;
     }
+
     /* =======footer======== */
 
 
@@ -275,7 +296,8 @@
     .navbar-nav {
         text-align: center !important;
     }
-/* ======nabar part end======= */
+
+    /* ======nabar part end======= */
 
 
 
@@ -315,30 +337,34 @@
 
     .best-top {
         position: relative;
+        flex-direction: column;
     }
 
     .top-right {
         position: inherit;
-       width: 100% !important;
+        width: 100% !important;
         margin-top: 0 !important;
         margin-left: 10px;
 
 
     }
+
     .top-right h2 {
-        
+
         font-size: 16px !important;
-      
+
         line-height: 20px !important;
-       
+
     }
+
     .top-right p {
         margin-bottom: 0px !important;
-        width: 192px;
+        width: 550px;
     }
 
     .best-btm {
         position: relative;
+        flex-direction: column-reverse;
     }
 
     .btm-right img {
@@ -367,11 +393,11 @@
     }
 
     .btm-left p {
-        width: 196px;
+        width:550px;
         margin-bottom: 0 !important;
     }
 
-/* ======GALLERY================*/
+    /* ======GALLERY================*/
 
     .img-top {
         margin-top: 20px;
@@ -381,12 +407,15 @@
         margin-top: 30px;
         margin-left: 0 !important;
     }
+
     .PHONE {
         margin-bottom: 10px !important;
     }
+
     .email {
         margin-bottom: 10px !important;
     }
+
     /* =======footer======== */
 
 
