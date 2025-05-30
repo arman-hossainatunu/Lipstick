@@ -31,5 +31,5 @@ This project provides a seamless and visually stunning e-commerce platform focus
 ## 🔗 Live Demo
 
 Check out the live site here:  
-👉 [Lipstick Demo](https://your-username.github.io/lipstick/)  
+👉 [Lipstick Demo](https://arman-hossainatunu.github.io/Lipstick/)  
 
